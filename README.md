@@ -1,0 +1,2 @@
+# House-Price-Prediction
+A SIMPLE REGRESSION MODEL FOR PRACTISE 
